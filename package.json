@@ -1,0 +1,9 @@
+{
+	"name": "BioCountdown",
+	"description": "Add a countdown to your Twitter bio!",
+	"version": "0.0.1",
+	"dependencies": {
+		"moment": "^2.20.1",
+		"twit": "^2.2.9"
+	}
+}
